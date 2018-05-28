@@ -5,7 +5,7 @@ A specialised drawing program allowing the creation of undirected graphs (i.e. c
 
 GraphGUI is a simple, mouse-driven drawing program with which one may create undirected graphs composed of vertices and edges. These graphs may be saved and loaded for later modification, and exported as .PNG images. 
 
-![alt text](https://github.com/LiamGraham/GraphGUI/blob/master/screenshots/GraphGUI%20Screenshot.png)
+![Screenshot](https://github.com/LiamGraham/graph-gui/blob/master/screenshots/GraphGUI%20Screenshot.png)
 
 All actions are performed using the mouse. Vertices may be added using the left mouse button, and vertex pairs may be connected by selecting the two target vertices. Vertices may also be moved around the canvas by pressing with the left mouse button and dragging. Additional actions, including vertex and edge deletion, graph saving, exporting and loading, and mode changing, are performed using the contenxt menu (accessed by right-clicking the canvas or target vertex or edge).   
 
